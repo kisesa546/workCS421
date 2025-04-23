@@ -21,11 +21,6 @@ This repository contains simple Bash scripts to automate routine maintenance tas
 - `backup.sh`  
   Creates backups of specified files or directories to a chosen location.
 
----
-## types of backup
-Sure! Here's a cleaner, simpler, and more polished version of your backup types — perfect for documentation, blog posts, or readme files:
-
----
 
 ## 🔄 Types of Backups
 
