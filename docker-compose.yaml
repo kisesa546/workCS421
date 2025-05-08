@@ -1,0 +1,10 @@
+version:"3"
+
+services:
+  app:
+    build:"."
+    container_name:"api1"
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./db.sqlite3:./db.sqlite3
